@@ -15,4 +15,4 @@ Realizaremos un análisis en profundidad para comprender la relación entre vari
 Impacto Posible:
 La implementación de vehículos eléctricos en la flota de la empresa podría tener un impacto positivo en la reducción de la contaminación del aire y del ruido en la ciudad de Nueva York, alineándose con las tendencias ambientales y mejorando la calidad de vida de sus pasajeros.
 
-Este enfoque multidisciplinario, que combina análisis de datos, conocimientos medioambientales y estrategias de mercado, tiene el potencial de orientar a la empresa hacia un futuro más sostenible y respetuoso con el entorno, al tiempo que garantiza la viabilidad de su expansión en el sector del transporte de pasajeros en automóviles.
+Este enfoque multidisciplinario, que combina análisis de datos, conocimientos medioambientales y estrategias de mercado, tiene el potencial de orientar a la empresa hacia un futuro más sostenible y respetuoso con el entorno, al tiempo que garantiza la viabilidad de su expansión en el sector del transporte de pasajeros en automóviles..
