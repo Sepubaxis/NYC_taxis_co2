@@ -1,13 +1,23 @@
 # NYC_taxis_co2
-Contexto: Interés en invertir en vehículos eléctricos como una respuesta a la necesidad de reducir la contaminación ambiental y alinearse con las tendencias de mercado, al tiempo que se busca un beneficio de costo de precio.
 
-### Objetivos de la Empresa:
+### Contexto
+En un mundo cada vez más consciente de la importancia de la sostenibilidad y la reducción de la contaminación ambiental, una nueva empresa de taxis está decidida a tomar medidas significativas. Su enfoque se centra en la inversión en vehículos eléctricos como una forma de reducir las emisiones de dióxido de carbono (CO2) y, al mismo tiempo, buscar beneficios económicos mediante la eficiencia de costos.
 
-En este contexto, una empresa de servicios de transporte de pasajeros, con experiencia en el sector de micros de media y larga distancia, está interesada en expandir su flota de vehículos para incluir automóviles. Su visión es contribuir a un futuro menos contaminado y adaptarse a las tendencias de mercado actuales. Sin embargo, esta expansión implica la necesidad de comprender la relación entre los medios de transporte particulares y la calidad del aire, así como la contaminación sonora. La empresa se plantea la posibilidad de incorporar vehículos eléctricos en su flota, ya sea de manera parcial o total, como parte de su compromiso ambiental.
+Para lograr este objetivo, la empresa ha recurrido a una consultora. La misión de esta consultora es evaluar exhaustivamente los datos relacionados con la operación de taxis, las emisiones de CO2 y las tendencias del mercado de vehículos eléctricos. Este análisis permitirá a la empresa tomar decisiones informadas que contribuyan a la reducción de la contaminación y, al mismo tiempo, maximizar sus beneficios económicos.
 
-### Propuesta de Trabajo:
+A través de la exploración de datos y el análisis de tendencias, esperamos aportar soluciones significativas que beneficien tanto a la empresa como al planeta.
 
-Para apoyar a esta empresa en su proceso de toma de decisiones, nuestro equipo se ha propuesto una serie de tareas. En primer lugar, recopilaremos y depuraremos datos de diversas fuentes, incluyendo información de taxis en la ciudad de Nueva York, datos de viajes compartidos, datos de calidad del aire, datos de contaminación sonora y otros conjuntos de datos relevantes. Este proceso de creación de un DataWarehouse proporcionará la base necesaria para nuestro análisis.
+### Objetivos
+Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma de decisiones mediante la consecución de los siguientes objetivos:
+
+* **Recopilación y Depuración de Datos:** En primer lugar, nos enfocaremos en la recopilación y depuración de datos de diversas fuentes. Esto incluirá información sobre la operación de taxis en la ciudad de Nueva York, las emisiones de CO2 asociadas a diferentes modelos de automóviles, la disponibilidad de estaciones de carga para vehículos eléctricos y otros conjuntos de datos relevantes
+
+* **Creación de un Data Warehouse en Google Cloud:** Estableceremos un Data Warehouse en la plataforma de Google Cloud.
+
+* **Desarrollo de un Dashboard Interactivo:** Presentaremos un dashboard interactivo que permitirá a los interesados visualizar análisis de valor en función de los KPI (Indicadores Clave de Desempeño) que hemos propuesto.
+
+* **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para
+***(rellenar más adelante cuando definamos su función específica).***
 
 ### Análisis y Soluciones:
 
