@@ -62,3 +62,12 @@ Estos expertos se encargan de diseñar, implementar y mantener las infraestructu
 
 Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y juntos trabajamos en colaboración para garantizar la calidad y la utilidad de los datos que manejamos. 
 
+## Machine Learning
+El rol de Machine Learning está a cargo de:
+
+Fabrizio Mazzuco
+Lorena Ravera
+
+Estos profesionales se enfocan en el desarrollo de modelos de machine learning y la implementación de soluciones basadas en inteligencia artificial para mejorar la toma de decisiones y automatizar procesos.
+
+Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y juntos trabajamos en colaboración para garantizar la calidad y la utilidad de los datos que manejamos, así como para aprovechar el potencial del machine learning en nuestro proyecto.
