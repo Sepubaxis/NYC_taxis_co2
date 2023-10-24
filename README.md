@@ -51,7 +51,7 @@ es una de las principales plataformas de servicios en la nube, y su elección co
 
 
 ## Roles
-En nuestro proyecto, contamos con dos roles principales:
+En nuestro proyecto, contamos con tres roles fundamentales:
 
 ### Data Analysts
 Los Data Analysts en nuestro equipo se dedican principalmente a tareas relacionadas con el análisis de datos. Dos de los miembros que desempeñan este rol son:
@@ -72,7 +72,7 @@ Estos expertos se encargan de diseñar, implementar y mantener las infraestructu
 
 Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y juntos trabajamos en colaboración para garantizar la calidad y la utilidad de los datos que manejamos. 
 
-## Machine Learning
+### Machine Learning
 El rol de Machine Learning está a cargo de:
 
 Fabrizio Mazzuco
