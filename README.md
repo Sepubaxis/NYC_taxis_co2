@@ -53,6 +53,9 @@ es una de las principales plataformas de servicios en la nube, y su elección co
 ## Roles
 En nuestro proyecto, contamos con tres roles fundamentales:
 
+### Data Scientist
+Fabrizio Mazzuco
+
 ### Data Analysts
 Los Data Analysts en nuestro equipo se dedican principalmente a tareas relacionadas con el análisis de datos. Dos de los miembros que desempeñan este rol son:
 
