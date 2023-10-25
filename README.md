@@ -19,15 +19,6 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 * **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para
 ***(rellenar más adelante cuando definamos su función específica).***
 
-### Análisis y Soluciones:
-
-Realizaremos un análisis en profundidad para comprender la relación entre variables, incluyendo la relación entre la cantidad de viajes y la contaminación del aire, así como la diferencia en el nivel sonoro entre vehículos a combustión y vehículos eléctricos. También evaluaremos el mercado de vehículos eléctricos, su costo y su viabilidad económica. Para respaldar nuestros hallazgos, emplearemos técnicas de machine learning para predecir patrones de viaje y tomar decisiones basadas en datos.
-
-### Impacto Posible:
-La implementación de vehículos eléctricos en la flota de la empresa podría tener un impacto positivo en la reducción de la contaminación del aire y del ruido en la ciudad de Nueva York, alineándose con las tendencias ambientales y mejorando la calidad de vida de sus pasajeros.
-
-Este enfoque multidisciplinario, que combina análisis de datos, conocimientos medioambientales y estrategias de mercado, tiene el potencial de orientar a la empresa hacia un futuro más sostenible y respetuoso con el entorno, al tiempo que garantiza la viabilidad de su expansión en el sector del transporte de pasajeros en automóviles.
-
 ### KPI (Key Performance Indicator
 
 | KPI | Métrica |
