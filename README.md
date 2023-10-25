@@ -40,9 +40,8 @@ es una de las principales plataformas de servicios en la nube, y su elección co
 - Machine Learning e Inteligencia Artificial: Tiene herramientas de google predefinidas para implementar.
 - Big Data y Análisis Avanzado: GCP proporciona servicios y herramientas sólidos para el procesamiento de big data que pudimos utilizar, como BigQuery.
 
-
 ## Roles
-En nuestro proyecto, contamos con tres roles fundamentales:
+En nuestro proyecto, contamos con cuatro roles fundamentales:
 
 ### Data Scientist
 Fabrizio Mazzuco
@@ -60,7 +59,6 @@ Los Data Engineers en nuestro equipo se centran principalmente en tareas relacio
 
 Aymara Falcón
 Alexis Alvarez
-
 
 Estos expertos se encargan de diseñar, implementar y mantener las infraestructuras de datos y pipelines que permiten la recopilación, procesamiento y almacenamiento eficiente de los datos.
 
