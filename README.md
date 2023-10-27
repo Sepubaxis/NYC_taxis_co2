@@ -43,9 +43,6 @@ es una de las principales plataformas de servicios en la nube, y su elección co
 ## Roles
 En nuestro proyecto, contamos con cuatro roles fundamentales:
 
-### Data Scientist
-Fabrizio Mazzuco
-
 ### Data Analysts
 Los Data Analysts en nuestro equipo se dedican principalmente a tareas relacionadas con el análisis de datos. Dos de los miembros que desempeñan este rol son:
 
@@ -59,6 +56,7 @@ Los Data Engineers en nuestro equipo se centran principalmente en tareas relacio
 
 Aymara Falcón
 Alexis Alvarez
+Fabrizio Mazzucco
 
 Estos expertos se encargan de diseñar, implementar y mantener las infraestructuras de datos y pipelines que permiten la recopilación, procesamiento y almacenamiento eficiente de los datos.
 
@@ -67,7 +65,7 @@ Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y jun
 ### Machine Learning
 El rol de Machine Learning está a cargo de:
 
-Fabrizio Mazzuco
+Fabrizio Mazzucco
 Lorena Ravera
 
 Estos profesionales se enfocan en el desarrollo de modelos de machine learning y la implementación de soluciones basadas en inteligencia artificial para mejorar la toma de decisiones y automatizar procesos.
