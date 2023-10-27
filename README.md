@@ -23,11 +23,11 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 | KPI | Métrica |
 | ------------ | ----------- |
-| Dias con mas viajes en la semana | Viajes por dias de la semana |
-| Reduccion de co2 Metrica | AVG emision autos combustion interna - AVG emision autos hibridos_electricos |
-| Promedio de km recorridos por dia | Km Total / Cantidad de autos combustion interna. Lo mismo con electricos_hibridos para comparar |
-| Autonomia combustion vs autonomia electricos | Km/Litro * Litros vs Km/Bateria * Bateria |
-| Zona con mas cantidad de viajes | Viajes por distritos |
+| Porcentaje de reducción de emisiones| reduccion_emisiones = ((Eco2_combustible - Eco2_electricos) / Eco2_combustible) * 100 |
+| Distancia promedio por viaje | Distancia Promedio por Viaje = Distancia Total Recorrida / Número Total de Viajes|
+| Horario de mayor demanda |Hora de Mayor Demanda = Hora con el Mayor Número de Viajes |
+|Diferencia de autonomía entre vehículos de combustión y eléctricos | Km/Litro * Litros vs Km/batería * batería |
+| Precio promedio del viaje |Precio Promedio del Viaje = Total de Precios de Viajes / Número Total de Viajes |
 
 ### Herramientas Utilizadas:
 
