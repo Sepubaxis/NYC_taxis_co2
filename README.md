@@ -41,22 +41,22 @@ es una de las principales plataformas de servicios en la nube, y su elección co
 - Big Data y Análisis Avanzado: GCP proporciona servicios y herramientas sólidos para el procesamiento de big data que pudimos utilizar, como BigQuery.
 
 ## Roles
-En nuestro proyecto, contamos con cuatro roles fundamentales:
+En nuestro proyecto, contamos con tres roles fundamentales:
 
 ### Data Analysts
 Los Data Analysts en nuestro equipo se dedican principalmente a tareas relacionadas con el análisis de datos. Dos de los miembros que desempeñan este rol son:
 
-Victoria Galvez
-Lorena Ravera
+- Victoria Galvez
+- Lorena Ravera
 
 Estos profesionales son responsables de extraer, limpiar, analizar y presentar datos de una manera significativa para tomar decisiones informadas.
 
 ### Data Engineers
 Los Data Engineers en nuestro equipo se centran principalmente en tareas relacionadas con la ingeniería de datos. Tres de los miembros que desempeñan este rol son:
 
-Aymara Falcón
-Alexis Alvarez
-Fabrizio Mazzucco
+- Aymara Falcón
+- Alexis Alvarez
+- Fabrizio Mazzucco
 
 Estos expertos se encargan de diseñar, implementar y mantener las infraestructuras de datos y pipelines que permiten la recopilación, procesamiento y almacenamiento eficiente de los datos.
 
@@ -65,8 +65,8 @@ Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y jun
 ### Machine Learning
 El rol de Machine Learning está a cargo de:
 
-Fabrizio Mazzucco
-Lorena Ravera
+- Fabrizio Mazzucco
+- Lorena Ravera
 
 Estos profesionales se enfocan en el desarrollo de modelos de machine learning y la implementación de soluciones basadas en inteligencia artificial para mejorar la toma de decisiones y automatizar procesos.
 
