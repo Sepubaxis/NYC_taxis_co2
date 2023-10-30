@@ -5,7 +5,7 @@ En un mundo cada vez más consciente de la importancia de la sostenibilidad y la
 
 Para lograr este objetivo, la empresa ha recurrido a una consultora. La misión de esta consultora es evaluar exhaustivamente los datos relacionados con la operación de taxis, las emisiones de CO2 y las tendencias del mercado de vehículos eléctricos. Este análisis permitirá a la empresa tomar decisiones informadas que contribuyan a la reducción de la contaminación y, al mismo tiempo, maximizar sus beneficios económicos.
 
-A través de la exploración de datos y el análisis de tendencias, esperamos aportar soluciones significativas que beneficien tanto a la empresa como al planeta
+A través de la exploración de datos y el análisis de tendencias, esperamos aportar soluciones significativas que beneficien tanto a la empresa como al planeta.
 
 ### Objetivos
 Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma de decisiones mediante la consecución de los siguientes objetivos:
