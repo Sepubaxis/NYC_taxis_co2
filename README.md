@@ -23,10 +23,10 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 | KPI | Métrica |
 | ------------ | ----------- |
-| Porcentaje de reducción de emisiones| reduccion_emisiones = ((Eco2_combustible - Eco2_electricos) / Eco2_combustible) * 100 |
+| Reduccion de 20% de emisiones por año | Reduccion_emisiones = ((Eco2_combustible - Eco2_electricos) / Eco2_combustible) * 100 |
 | Distancia promedio por viaje | Distancia Promedio por Viaje = Distancia Total Recorrida / Número Total de Viajes|
 | Horario de mayor demanda |Hora de Mayor Demanda = Hora con el Mayor Número de Viajes |
-|Diferencia de autonomía entre vehículos de combustión y eléctricos | Km/Litro * Litros vs Km/batería * batería |
+| Diferencia de autonomía de 20% entre vehículos de combustión y eléctricos | Km/Litro * Litros vs Km/batería * batería |
 | Precio promedio del viaje |Precio Promedio del Viaje = Total de Precios de Viajes / Número Total de Viajes |
 
 ### Herramientas Utilizadas:
