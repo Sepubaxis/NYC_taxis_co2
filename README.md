@@ -21,13 +21,13 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 ### KPI (Key Performance Indicator
 
-| KPI | Métrica |
-| ------------ | ----------- |
-| Reduccion de 20% de emisiones por año | Reduccion_emisiones = ((Eco2_combustible - Eco2_electricos) / Eco2_combustible) * 100 |
-| Distancia promedio por viaje | Distancia Promedio por Viaje = Distancia Total Recorrida / Número Total de Viajes|
-| Horario de mayor demanda |Hora de Mayor Demanda = Hora con el Mayor Número de Viajes |
-| Diferencia de autonomía de 20% entre vehículos de combustión y eléctricos | Km/Litro * Litros vs Km/batería * batería |
-| Precio promedio del viaje |Precio Promedio del Viaje = Total de Precios de Viajes / Número Total de Viajes |
+| KPI | Métrica | Objetivo |
+| ------------ | ----------- | ----------- |
+| Emisiones por año | [(Eco2_combustible - Eco2_electricos) / Eco2_combustible] * 100 | Reducir las emisiones de CO2 de taxis eléctricos en un 20% por año en comparación con los taxis de combustión. |
+| Autonomía vehículos eléctricos |[(Km/batería * batería)-(Km/Litro * Litros)/(Km/Litro * Litros)] * 100 | Mejorar la autonomía de los taxis eléctricos un 20% en comparación con taxis a combustión.
+| Ventas Promedio de los Viajes | Ventas totales / Número de viajes realizados | Aumentar las ventas promedio de los viajes en un 10% en comparación con el mes anterior. |
+| Ingresos por Día | (Ingresos totales en el período de 3 meses / Número de días en el período de 3 meses) | Aumentar el ingreso por día en un 10% en comparación con el período anterior de 3 meses. |
+| Tasa de Viajes Realizados | [(Tasa de Viajes Realizados Actual - Tasa de Viajes Realizados en el Período de Referencia) / Tasa de Viajes Realizados en el Período de Referencia] * 100 | Aumentar la tasa de viajes realizados en un 2% en 3 meses. |
 
 ### Herramientas Utilizadas:
 
