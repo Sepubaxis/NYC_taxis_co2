@@ -16,8 +16,7 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 * **Desarrollo de un Dashboard Interactivo:** Presentaremos un dashboard interactivo que permitirá a los interesados visualizar análisis de valor en función de los KPI (Indicadores Clave de Desempeño) que hemos propuesto.
 
-* **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para
-***(rellenar más adelante cuando definamos su función específica).***
+* **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para recomendar autos eléctricos, el cuál sugiere 5 opciones en función del precio que el usuario esté interesado.
 
 ### KPI (Key Performance Indicator
 
