@@ -73,4 +73,8 @@ Estos profesionales se enfocan en el desarrollo de modelos de machine learning y
 
 El principal modelo de Machine Learning es un modelo de recomendación donde nosotros ingresamos el precio y la eficiencia de carga rápida en millas deseada y nos devuelve los autos más parecidos a los parámetros ingresados. Para este modelo utilizaremos k-neighbors.
 
+Ejemplo de salida:
+![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/assets/103448781/705fb5e9-c98b-47a6-8351-37550a007251)
+
+
 Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y juntos trabajamos en colaboración para garantizar la calidad y la utilidad de los datos que manejamos, así como para aprovechar el potencial del machine learning en nuestro proyecto.
