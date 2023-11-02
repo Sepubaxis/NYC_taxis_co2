@@ -22,8 +22,7 @@ Ejemplo de salida:
 
 ![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/assets/103448781/705fb5e9-c98b-47a6-8351-37550a007251)
 
-  
-*  Además, se realizará un modelo que predice la demanda de taxis amarillos en la zona de Manhattan.
+Además, se realizará un modelo que predice la demanda de taxis amarillos en la zona de Manhattan.
 
 ### KPI (Key Performance Indicator)
 
