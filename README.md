@@ -16,9 +16,16 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 * **Desarrollo de un Dashboard Interactivo:** Presentaremos un dashboard interactivo que permitirá a los interesados visualizar análisis de valor en función de los KPI (Indicadores Clave de Desempeño) que hemos propuesto.
 
-* **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para recomendar autos eléctricos, el cuál sugiere 5 opciones en función del precio que el usuario esté interesado.
+* **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para recomendar autos eléctricos, donde el usuario ingresa el precio y la eficiencia de carga rápida en millas deseada y le devuelve los autos más parecidos a los parámetros ingresados. Para este modelo utilizaremos k-neighbors.
 
-### KPI (Key Performance Indicator
+Ejemplo de salida:
+
+![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/assets/103448781/705fb5e9-c98b-47a6-8351-37550a007251)
+
+  
+*  Además, se realizará un modelo que predice la demanda de taxis amarillos en la zona de Manhattan.
+
+### KPI (Key Performance Indicator)
 
 | KPI | Métrica | Objetivo |
 | ------------ | ----------- | ----------- |
@@ -70,12 +77,5 @@ El rol de Machine Learning está a cargo de:
 - Lorena Ravera
 
 Estos profesionales se enfocan en el desarrollo de modelos de machine learning y la implementación de soluciones basadas en inteligencia artificial para mejorar la toma de decisiones y automatizar procesos.
-
-El principal modelo de Machine Learning es un modelo de recomendación donde nosotros ingresamos el precio y la eficiencia de carga rápida en millas deseada y nos devuelve los autos más parecidos a los parámetros ingresados. Para este modelo utilizaremos k-neighbors.
-
-Ejemplo de salida:
-
-![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/assets/103448781/705fb5e9-c98b-47a6-8351-37550a007251)
-
 
 Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y juntos trabajamos en colaboración para garantizar la calidad y la utilidad de los datos que manejamos, así como para aprovechar el potencial del machine learning en nuestro proyecto.
