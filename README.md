@@ -74,6 +74,7 @@ Estos profesionales se enfocan en el desarrollo de modelos de machine learning y
 El principal modelo de Machine Learning es un modelo de recomendación donde nosotros ingresamos el precio y la eficiencia de carga rápida en millas deseada y nos devuelve los autos más parecidos a los parámetros ingresados. Para este modelo utilizaremos k-neighbors.
 
 Ejemplo de salida:
+
 ![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/assets/103448781/705fb5e9-c98b-47a6-8351-37550a007251)
 
 
