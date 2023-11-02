@@ -32,6 +32,8 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 #### Python:
 La herramienta mas importante de nuestro proyecto, cuenta con librerias como **Pandas**, **Numpy**, **Seaborn** y **Matplotlib**. A traves de la comodidad de trabajo que ofrece las Jupyter Notebooks realizamos transformaciones de datos (ETL) y en analizis exploratorio de los datos (EDA)
+![image](https://github.com/Sepubaxis/NYC_taxis_co2/assets/114174171/eb0ed7b7-a6c6-4357-8d05-b29fc5c5a656)
+
 #### Google Cloud Platform (GCP)
 es una de las principales plataformas de servicios en la nube, y su elección como plataforma para alojar y gestionar tus datos y aplicaciones puede depender de varios factores que hacen que sea una opción favorable en muchas situaciones. Aquí te indico algunas razones por las cuales utilizamos GCP:
 - Escalabilidad y Flexibilidad: GCP ofrece una amplia gama de servicios que te permiten escalar tus aplicaciones y recursos de manera eficiente. Puedes aumentar o disminuir tus recursos según tus necesidades, lo que es especialmente beneficioso para proyectos que experimentan fluctuaciones en la demanda.
