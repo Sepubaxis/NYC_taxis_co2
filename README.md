@@ -20,7 +20,7 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 Ejemplo de salida:
 
-![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/assets/103448781/705fb5e9-c98b-47a6-8351-37550a007251)
+![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/blob/main/Documentaci%C3%B3n/Diagrama__entidad-relacion.png)
 
 Además, se realizará un modelo que predice la demanda de taxis amarillos en la zona de Manhattan.
 
