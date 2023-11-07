@@ -28,7 +28,7 @@ Además, se realizará un modelo que predice la demanda de taxis amarillos en la
 
 | KPI | Métrica | Objetivo |
 | ------------ | ----------- | ----------- |
-| Emisiones por año | [(Eco2_combustible - Eco2_electricos) / Eco2_combustible] * 100 | Reducir las emisiones de CO2 de taxis eléctricos en un 20% por año en comparación con los taxis de combustión. |
+| Emisiones por año | [(Eco2_combustible - Eco2_electricos) / Eco2_combustible] * 100 | Reducir las emisiones de CO2 de taxis eléctricos en un 40% por año en comparación con los taxis de combustión. |
 | Autonomía vehículos eléctricos |[(Km/batería * batería)-(Km/Litro * Litros)/(Km/Litro * Litros)] * 100 | Mejorar la autonomía de los taxis eléctricos un 20% en comparación con taxis a combustión.
 | Ventas Promedio de los Viajes | Ventas totales / Número de viajes realizados | Aumentar las ventas promedio de los viajes en un 10% en comparación con el mes anterior. |
 | Ingresos por Día | (Ingresos totales en el período de 3 meses / Número de días en el período de 3 meses) | Aumentar el ingreso por día en un 10% en comparación con el período anterior de 3 meses. |
