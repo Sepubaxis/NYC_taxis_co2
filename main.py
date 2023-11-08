@@ -7,12 +7,12 @@ from sklearn.neighbors import NearestNeighbors
 
 app = FastAPI()
 
-df = pd.read_csv('Autos Electicos.csv')
+df = pd.read_csv('Recomendacion-ML/Autos Electicos.csv')
 knn = NearestNeighbors(n_neighbors=10, metric='euclidean')
 knn.fit(df[['Price', 'FastCharge_MiH']])
 
 
-@app.get("/Autos electricos recomendados")
+@app.get("/Autos-electricos-recomendados")
 def recomendacion(price: float, fastcharge: float):
     # Asegúrate de que los valores de entrada sean números de punto flotante
     if not isinstance(price, float) or not isinstance(fastcharge, float):
@@ -38,7 +38,7 @@ def recomendacion(price: float, fastcharge: float):
 import joblib
 
 # Cargar el modelo Random Forest previamente entrenado
-model_rf = joblib.load('random_forest_model.pkl')
+model_rf = joblib.load('Recomendacion-ML/random_forest_model.pkl')
 
 
 @app.get("/Zonas demanda")
