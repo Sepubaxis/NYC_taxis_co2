@@ -12,7 +12,7 @@ knn = NearestNeighbors(n_neighbors=10, metric='euclidean')
 knn.fit(df[['Price', 'FastCharge_MiH']])
 
 
-@app.get("/Autos electricos recomendados")
+@app.get("/Autos-electricos-recomendados")
 def recomendacion(price: float, fastcharge: float):
     # Asegúrate de que los valores de entrada sean números de punto flotante
     if not isinstance(price, float) or not isinstance(fastcharge, float):
