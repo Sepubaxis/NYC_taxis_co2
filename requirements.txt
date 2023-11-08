@@ -24,6 +24,7 @@ pandas
 parso
 platformdirs
 prompt-toolkit
+poetry
 psutil
 pure-eval
 pydantic
