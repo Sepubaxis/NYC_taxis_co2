@@ -16,9 +16,9 @@ Nuestro equipo se ha comprometido a ayudar a esta empresa en su proceso de toma 
 
 * **Desarrollo de un Dashboard Interactivo:** Presentaremos un dashboard interactivo que permitirá a los interesados visualizar análisis de valor en función de los KPI (Indicadores Clave de Desempeño) que hemos propuesto.
 
-* **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para recomendar autos eléctricos, donde el usuario ingresa el precio y la eficiencia de carga rápida en millas deseada y le devuelve los autos más parecidos a los parámetros ingresados. Para este modelo utilizaremos k-neighbors. Para explicar su funcionamiento en un mapa ponemos todos los autos en forma de puntos basados en los parametros del auto lo que hace que no esten de manera aleatoria sino con un orden, cuando ingresamos los parametros deseados se crea un punto en este mapa y busca los autos más cercanos para mostrarlos al usuario.
+* **Implementación de un Modelo de Machine Learning:** Desarrollaremos un modelo de Machine Learning que estará diseñado para recomendar autos eléctricos, donde el usuario ingresa el precio y la eficiencia de carga rápida en millas deseada y le devuelve los autos más parecidos a los parámetros ingresados. Para este modelo utilizaremos k-neighbors. Para explicar su funcionamiento en un mapa ponemos todos los autos en forma de puntos basados en los parametros del auto lo que hace que no esten de manera aleatoria sino con un orden, cuando ingresamos los parametros deseados se crea un punto en este mapa y busca los autos más cercanos para mostrarlos al usuario. Los datos utilizados para entrenar el modelo son: precio y eficiencia de carga rápida en millas y los datos de sálida son los mostrados a continuación.
 
-Ejemplo de salida:
+Ejemplo de sálida:
 
 ![funcion](https://github.com/Sepubaxis/NYC_taxis_co2/blob/main/Documentaci%C3%B3n/ML1.png)
 
