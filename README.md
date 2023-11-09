@@ -42,7 +42,8 @@ Link para poder usar los modelos: https://machine-learning-model-hti0.onrender.c
 
 #### Python:
 La herramienta mas importante de nuestro proyecto, cuenta con librerias como **Pandas**, **Numpy**, **Seaborn** y **Matplotlib**. A traves de la comodidad de trabajo que ofrece las Jupyter Notebooks realizamos transformaciones de datos (ETL) y en analizis exploratorio de los datos (EDA)
-![image](https://github.com/Sepubaxis/NYC_taxis_co2/blob/main/Documentaci%C3%B3n/Diagrama__entidad-relacion.png)
+![Captura de pantalla 2023-11-09 162609](https://github.com/Sepubaxis/NYC_taxis_co2/assets/106280956/86397433-bf5d-43de-ac56-d7807c882bd7)
+
 
 #### Google Cloud Platform (GCP)
 es una de las principales plataformas de servicios en la nube, y su elección como plataforma para alojar y gestionar tus datos y aplicaciones puede depender de varios factores que hacen que sea una opción favorable en muchas situaciones. Aquí te indico algunas razones por las cuales utilizamos GCP:
