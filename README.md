@@ -34,8 +34,8 @@ Link para poder usar los modelos: https://machine-learning-model-hti0.onrender.c
 | KPI | Métrica | Objetivo |
 | ------------ | ----------- | ----------- |
 | Emisiones por año | [(Eco2_combustible - Eco2_electricos) / Eco2_combustible] * 100 | Reducir las emisiones de CO2 de taxis eléctricos en un 40% por año en comparación con los taxis de combustión. |
-| Ventas Promedio de los Viajes | Ventas totales / Número de viajes realizados | Aumentar las ventas promedio de los viajes en un 10% en comparación con el mes anterior. |
-| Ingresos por Día | (Ingresos totales en el período de 3 meses / Número de días en el período de 3 meses) | Aumentar el ingreso por día en un 10% en comparación con el período anterior de 3 meses. |
+| Ganancia Promedio de los Viajes | Ventas totales / Número de viajes realizados | Aumentar las ventas promedio de los viajes en un 10% en comparación con el mes anterior. |
+| Ingresos por Trimestre | (Ingresos totales en el período de 3 meses / Número de días en el período de 3 meses) | Aumentar el ingreso por día en un 10% en comparación con el período anterior de 3 meses. |
 | Tasa de Viajes Realizados | [(Tasa de Viajes Realizados Actual - Tasa de Viajes Realizados en el Período de Referencia) / Tasa de Viajes Realizados en el Período de Referencia] * 100 | Aumentar la tasa de viajes realizados en un 2% por mes. |
 
 ### Herramientas Utilizadas:
