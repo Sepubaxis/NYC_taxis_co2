@@ -27,6 +27,8 @@ En este modelo el usuario debe ingresar como parámetro de entrada el día, la h
 
 Link para poder usar los modelos: https://machine-learning-model-hti0.onrender.com/docs
 
+[Si quieres ver los ID de localización y a que zona pertenecen haz clic aquí](https://github.com/Sepubaxis/NYC_taxis_co2/blob/main/Documentaci%C3%B3n/ID_location.csv)
+
 ### KPI (Key Performance Indicator)
 
 | KPI | Métrica | Objetivo |
