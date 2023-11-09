@@ -25,7 +25,7 @@ Ejemplo de sálida:
 Además, realizamos un modelo que predice la demanda de taxis amarillos en la zona de Manhattan. Este modelo está diseñado para mejorar la eficiencia del servicio de taxis, ayudando a los taxistas a encontrar pasajeros más rápidamente y evitar viajes en vacío, lo cuál podría mejorar la experiencia de los pasajeros y reducir los costos para los taxistas. Para su realización se utiliza el modelo de regresión Random Forest.
 En este modelo el usuario debe ingresar como parámetro de entrada el día, la hora y el número de localización y le devuelve el porcentaje de demanda, además del id de zonas con probabilidad similar a la probabilidad de demanda resultante.
 
-![Clic aquí para usar los modelos](https://machine-learning-model-hti0.onrender.com/docs)
+Link para poder usar los modelos: https://machine-learning-model-hti0.onrender.com/docs
 
 ### KPI (Key Performance Indicator)
 
