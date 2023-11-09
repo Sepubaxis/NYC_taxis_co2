@@ -1,104 +1,104 @@
-Brand,RapidCharge,Price,Efficiency_WhMi,FastCharge_MiH
-Tesla ,Yes,58808.8,10,584
-Volkswagen ,Yes,31800.0,10,155
-Polestar ,Yes,59826.4,9,385
-BMW ,Yes,72122.40000000001,8,348
-Honda ,Yes,34976.82,10,118
-Lucid ,Yes,111300.0,9,385
-Volkswagen ,Yes,33814.0,10,137
-Peugeot ,Yes,31462.92,10,261
-Tesla ,Yes,49162.8,11,404
-Audi ,Yes,58300.0,8,336
-Mercedes ,Yes,73653.04000000001,7,273
-Nissan ,Yes,30988.04,10,143
-Hyundai ,Yes,43242.7,10,236
-BMW ,Yes,68900.0,9,404
-Hyundai ,Yes,36526.54,11,131
-Volkswagen ,Yes,43392.16,9,367
-Porsche ,Yes,191627.86,7,485
-Volkswagen ,Yes,22706.26,10,106
-MG ,Yes,31800.0,8,162
-Mini ,Yes,33581.86,10,162
-Opel ,Yes,30894.76,10,261
-Tesla ,Yes,62137.2,9,578
-Skoda ,Yes,37100.0,9,143
-Audi ,Yes,132500.0,8,528
-Tesla ,Yes,65168.8,10,566
-Volkswagen ,Yes,47700.0,9,348
-Volkswagen ,Yes,34980.0,10,305
-Volvo ,Yes,64063.22,8,292
-BMW ,Yes,40298.02,10,168
-Peugeot ,Yes,36422.66,9,236
-Audi ,Yes,71399.48000000001,7,280
-Kia ,Yes,40391.3,9,218
-Renault ,Yes,33055.04,10,143
-Tesla ,Yes,79500.0,6,441
-Mazda ,Yes,34604.76,9,149
-Nissan ,Yes,39471.22,9,242
-Lexus ,Yes,53000.0,8,118
-CUPRA ,Yes,47700.0,9,354
-Renault ,Yes,35120.98,10,143
-Mercedes ,Yes,47700.0,9,273
-Tesla ,Yes,84789.40000000001,9,348
-Hyundai ,Yes,36009.26,10,131
-Audi ,Yes,86537.34000000001,7,379
-Skoda ,Yes,26006.04,10,106
-SEAT ,Yes,21336.74,10,106
-Kia ,Yes,39047.22,9,211
-Opel ,Yes,44420.36,9,131
-Porsche ,Yes,109121.7,8,454
-Lightyear ,Yes,157940.0,15,336
-Aiways ,Yes,38220.420000000006,9,218
-Audi ,Yes,84211.7,7,367
-Tesla ,Yes,227900.0,8,572
-Opel ,Yes,37100.0,9,242
-Skoda ,Yes,42400.0,9,348
-Tesla ,Yes,91149.4,8,305
-Honda ,Yes,38076.26,10,118
-DS ,Yes,39667.32,9,236
-Renault ,No,26277.4,10,0
-Citroen ,Yes,42400.0,9,236
-Tesla ,Yes,102809.4,9,342
-Renault ,Yes,30988.04,10,143
-Tesla ,Yes,69557.2,9,559
-Nissan ,Yes,53000.0,8,323
-Jaguar ,Yes,79872.06,7,211
-Ford ,Yes,57743.5,8,267
-Porsche ,Yes,115860.12,8,553
-Nissan ,Yes,35240.76,8,118
-Tesla ,Yes,58300.0,6,441
-Renault ,No,40280.0,8,0
-Ford ,Yes,66674.0,8,255
-BMW ,Yes,44017.560000000005,10,162
-Skoda ,Yes,47700.0,8,336
-Porsche ,Yes,159000.0,7,479
-Byton ,Yes,67840.0,7,286
-Sono ,Yes,27030.0,10,168
-Kia ,Yes,36464.0,10,143
-Audi ,Yes,60950.0,9,342
-Smart ,No,23351.800000000003,9,0
-Ford ,Yes,57240.0,8,224
-Porsche ,Yes,157199.06,7,503
-Volkswagen ,Yes,41326.22,9,292
-Tesla ,Yes,109169.4,7,298
-Smart ,No,22670.22,10,0
-Ford ,Yes,49714.0,8,236
-Mercedes ,Yes,74868.86,6,180
-Fiat ,Yes,36994.0,10,205
-Tesla ,Yes,47700.0,6,460
-Audi ,Yes,73724.06,7,292
-Skoda ,Yes,50350.0,8,336
-Skoda ,Yes,39750.0,9,273
-Audi ,Yes,99428.0,6,317
-Smart ,No,26038.9,9,0
-Kia ,Yes,39047.22,9,199
-Nissan ,Yes,60950.0,8,311
-Fiat ,Yes,40174.0,10,205
-Volkswagen ,Yes,37709.5,9,292
-Kia ,Yes,35120.98,9,137
-Byton ,Yes,56710.0,7,261
-Nissan ,Yes,47700.0,8,273
-Audi ,Yes,101813.0,6,336
-Nissan ,Yes,53000.0,8,273
-Nissan ,Yes,68900.0,7,280
-Byton ,Yes,65720.0,7,298
+,Brand,Model,Efficiency_WhMi,FastCharge_MiH,RapidCharge,Price
+0,Tesla ,Model 3 Long Range Dual Motor,100,584,Yes,59363.600000000006
+1,Volkswagen ,ID.3 Pure,103,155,Yes,32100.000000000004
+2,Polestar ,2,112,385,Yes,60390.8
+3,BMW ,iX3 ,128,347,Yes,72802.8
+4,Honda ,e ,104,118,Yes,35306.79
+5,Lucid ,Air ,111,385,Yes,112350.0
+6,Volkswagen ,e-Golf ,104,136,Yes,34133.0
+7,Peugeot ,e-208 ,101,260,Yes,31759.74
+8,Tesla ,Model 3 Standard Range Plus,95,403,Yes,49626.600000000006
+9,Audi ,Q4 e-tron ,119,335,Yes,58850.0
+10,Mercedes ,EQC 400 4MATIC,134,273,Yes,74347.88
+11,Nissan ,Leaf ,101,142,Yes,31280.38
+12,Hyundai ,Kona Electric 64 kWh,99,236,Yes,43650.65
+13,BMW ,i4 ,110,403,Yes,69550.0
+14,Hyundai ,IONIQ Electric,95,130,Yes,36871.130000000005
+15,Volkswagen ,ID.3 Pro S,108,366,Yes,43801.520000000004
+16,Porsche ,Taycan Turbo S,138,484,Yes,193435.67
+17,Volkswagen ,e-Up! ,103,105,Yes,22920.47
+18,MG ,ZS EV,119,161,Yes,32100.000000000004
+19,Mini ,Cooper SE ,96,161,Yes,33898.670000000006
+20,Opel ,Corsa-e ,101,260,Yes,31186.22
+21,Tesla ,Model Y Long Range Dual Motor,106,577,Yes,62723.4
+22,Skoda ,Enyaq iV 50,111,142,Yes,37450.0
+23,Audi ,e-tron GT ,122,528,Yes,133750.0
+24,Tesla ,Model 3 Long Range Performance,103,565,Yes,65783.6
+25,Volkswagen ,ID.4 ,113,347,Yes,48150.0
+26,Volkswagen ,ID.3 Pro,103,304,Yes,35310.0
+27,Volvo ,XC40 P8 AWD Recharge,124,292,Yes,64667.590000000004
+28,BMW ,i3 120 Ah,100,167,Yes,40678.19
+29,Peugeot ,e-2008 SUV ,111,236,Yes,36766.270000000004
+30,Audi ,e-tron 50 quattro,143,279,Yes,72073.06
+31,Kia ,e-Niro 64 kWh,107,217,Yes,40772.350000000006
+32,Renault ,Zoe ZE50 R110,102,142,Yes,33366.880000000005
+33,Tesla ,Cybertruck Tri Motor,165,441,Yes,80250.0
+34,Mazda ,MX-30 ,110,149,Yes,34931.22
+35,Nissan ,Leaf e+,106,242,Yes,39843.590000000004
+36,Lexus ,UX 300e,119,118,Yes,53500.0
+37,CUPRA ,el-Born ,112,354,Yes,48150.0
+38,Renault ,Zoe ZE50 R135,104,142,Yes,35452.310000000005
+39,Mercedes ,EQA ,106,273,Yes,48150.0
+40,Tesla ,Model S Long Range,114,347,Yes,85589.3
+41,Hyundai ,Kona Electric 39 kWh,95,130,Yes,36348.97
+42,Audi ,e-tron Sportback 55 quattro,141,379,Yes,87353.73000000001
+43,Skoda ,CITIGOe iV ,103,105,Yes,26251.38
+44,SEAT ,Mii Electric ,103,105,Yes,21538.030000000002
+45,Kia ,e-Soul 64 kWh,108,211,Yes,39415.590000000004
+46,Opel ,Ampera-e ,107,130,Yes,44839.420000000006
+47,Porsche ,Taycan 4S,121,453,Yes,110151.15000000001
+48,Lightyear ,One ,64,335,Yes,159430.0
+49,Aiways ,U5 ,116,217,Yes,38580.990000000005
+50,Audi ,e-tron 55 quattro,147,366,Yes,85006.15000000001
+51,Tesla ,Roadster ,128,571,Yes,230050.0
+52,Opel ,Mokka-e ,109,242,Yes,37450.0
+53,Skoda ,Enyaq iV 80,113,347,Yes,42800.0
+54,Tesla ,Model X Long Range,131,304,Yes,92009.3
+55,Honda ,e Advance,104,118,Yes,38435.47
+56,DS ,3 Crossback E-Tense,111,236,Yes,40041.54
+57,Renault ,Twingo ZE,101,0,No,26525.300000000003
+58,Citroen ,e-C4 ,111,236,Yes,42800.0
+59,Tesla ,Model S Performance,116,341,Yes,103779.3
+60,Renault ,Zoe ZE40 R110,100,142,Yes,31280.38
+61,Tesla ,Model Y Long Range Performance,109,559,Yes,70213.40000000001
+62,Nissan ,Ariya 87kWh,123,323,Yes,53500.0
+63,Jaguar ,I-Pace ,144,211,Yes,80625.57
+64,Ford ,Mustang Mach-E ER RWD,124,267,Yes,58288.25
+65,Porsche ,Taycan 4S Plus,122,553,Yes,116953.14000000001
+66,Nissan ,e-NV200 Evalia ,124,118,Yes,35573.22
+67,Tesla ,Cybertruck Dual Motor,162,441,Yes,58850.0
+68,Renault ,Kangoo Maxi ZE 33,120,0,No,40660.0
+69,Ford ,Mustang Mach-E ER AWD,129,254,Yes,67303.0
+70,BMW ,i3s 120 Ah,102,161,Yes,44432.82
+71,Skoda ,Enyaq iV 80X,119,335,Yes,48150.0
+72,Porsche ,Taycan Cross Turismo ,134,478,Yes,160500.0
+73,Byton ,M-Byte 95 kWh 4WD,151,285,Yes,68480.0
+74,Sono ,Sion ,96,167,Yes,27285.0
+75,Kia ,e-Niro 39 kWh,103,142,Yes,36808.0
+76,Audi ,Q4 Sportback e-tron ,116,341,Yes,61525.0
+77,Smart ,EQ forfour ,109,0,No,23572.100000000002
+78,Ford ,Mustang Mach-E SR AWD,128,223,Yes,57780.0
+79,Porsche ,Taycan Turbo,133,503,Yes,158682.07
+80,Volkswagen ,ID.3 1st,106,292,Yes,41716.090000000004
+81,Tesla ,Model X Performance,134,298,Yes,110199.3
+82,Smart ,EQ fortwo coupe,103,0,No,22884.09
+83,Ford ,Mustang Mach-E SR RWD,120,236,Yes,50183.0
+84,Mercedes ,EQV 300 Long,169,180,Yes,75575.17
+85,Fiat ,500e Hatchback,104,205,Yes,37343.0
+86,Tesla ,Cybertruck Single Motor,159,459,Yes,48150.0
+87,Audi ,e-tron Sportback 50 quattro,136,292,Yes,74419.57
+88,Skoda ,Enyaq iV vRS,119,335,Yes,50825.0
+89,Skoda ,Enyaq iV 60,112,273,Yes,40125.0
+90,Audi ,e-tron S 55 quattro,167,316,Yes,100366.0
+91,Smart ,EQ fortwo cabrio,109,0,No,26284.550000000003
+92,Kia ,e-Soul 64 kWh,108,198,Yes,39415.590000000004
+93,Nissan ,Ariya e-4ORCE 87kWh,128,310,Yes,61525.0
+94,Fiat ,500e Convertible,104,205,Yes,40553.0
+95,Volkswagen ,ID.3 Pro Performance,106,292,Yes,38065.25
+96,Kia ,e-Soul 39 kWh,105,136,Yes,35452.310000000005
+97,Byton ,M-Byte 72 kWh 2WD,137,260,Yes,57245.0
+98,Nissan ,Ariya 63kWh,118,273,Yes,48150.0
+99,Audi ,e-tron S Sportback 55 quattro,160,335,Yes,102773.5
+100,Nissan ,Ariya e-4ORCE 63kWh,120,273,Yes,53500.0
+101,Nissan ,Ariya e-4ORCE 87kWh Performance,144,279,Yes,69550.0
+102,Byton ,M-Byte 95 kWh 2WD,147,298,Yes,66340.0
