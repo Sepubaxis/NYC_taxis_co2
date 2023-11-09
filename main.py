@@ -9,16 +9,16 @@ app = FastAPI()
 
 df = pd.read_csv('Autos Electicos.csv')
 knn = NearestNeighbors(n_neighbors=10, metric='euclidean')
-knn.fit(df[['Price', 'FastCharge_MiH']])
+knn.fit(df[['Precio', 'CargaRapida_MiH']])
 
 
 @app.get("/Autos electricos recomendados")
-def recomendacion(price: float, fastcharge: float):
+def recomendacion(Precio: float, CargaRapida_MiH: float):
     # Asegúrate de que los valores de entrada sean números de punto flotante
-    if not isinstance(price, float) or not isinstance(fastcharge, float):
+    if not isinstance(Precio, float) or not isinstance(CargaRapida_MiH, float):
         return {"error": "Los valores de entrada deben ser números de punto flotante"}
 
-    query = [[price, fastcharge]]
+    query = [[Precio, CargaRapida_MiH]]
     distances, indices = knn.kneighbors(query)
     recommended_indices = indices[0][1:]
     
@@ -51,38 +51,46 @@ model_rf.fit(X_train, y_train)
 #Se utilizan las características del conjunto de prueba (X_test) para hacer predicciones
 predictions = model_rf.predict(X_test)
 
+from fastapi import FastAPI, Query
 
-@app.get("/prediccion")
-def zonas_demanda(ID_localizacion: int, dia: int, hora: int):
+# Definir la ruta y los parámetros de la API con descripciones
+@app.get("/Demanda zonas")
+def prediccion(
+    ID_localizacion: int = Query(..., title="ID de Localización", description="ID de la zona de localización (entre 1 y 263)."),
+    Dia_de_la_semana: int = Query(..., title="Día de la Semana", description="Día de la semana (entre 1 y 7)."),
+    Hora: int = Query(..., title="Hora", description="Hora del día (entre 0 y 23)."),
+):
     # Validar que los valores de día, hora e ID estén dentro del rango deseado
-    if dia < 1 or dia > 7:
+    if Dia_de_la_semana < 1 or Dia_de_la_semana > 7:
         return {"error": "El valor de día debe estar entre 1 y 7."}
-    if hora < 1 or hora > 24:
-        return {"error": "El valor de hora debe estar entre 1 y 24."}
+    if Hora < 0 or Hora > 23:
+        return {"error": "El valor de hora debe estar entre 0 y 23."}
     if ID_localizacion < 1 or ID_localizacion > 263:
         return {"error": "El valor de zona_actual debe estar entre 1 y 263."}
-    dia_semana = dia % 7  # Calcular el día de la semana a partir del día proporcionado
+    
+    dia_semana = Dia_de_la_semana % 7  # Calcular el día de la semana a partir del día proporcionado
 
     localizacion = {
         'PULocationID': [ID_localizacion],
         'dayofweek': [dia_semana],
-        'hour': [hora],
+        'hour': [Hora],
     }
     loc = pd.DataFrame(localizacion)
 
     # Realizar la predicción de probabilidad de encontrar un viaje en la zona actual
     demanda = model_rf.predict(loc)
 
-    #Obtener las 5 zonas más probables
-    zonas_probables = zonas_mas_probables(model_rf, ID_localizacion, hora, dia_semana, 5)
+    # Obtener las 5 zonas más probables
+    zonas_probables = zonas_mas_probables(model_rf, ID_localizacion, Hora, dia_semana, 5)
 
     return {
         "probabilidad_en_esa_zona": round(demanda[0], 2),
         "demas_zonas_probables": zonas_probables
     } 
 
+# Función para obtener las zonas más probables
 def zonas_mas_probables(model_rf, zona_actual, hora, dia_semana, top_n):
-    zonas = list(range(1, 264))  #rango de IDs de ubicación
+    zonas = list(range(1, 263))  # Rango de IDs de ubicación
     zonas.remove(zona_actual)  
     probabilidades = []
 
@@ -92,6 +100,7 @@ def zonas_mas_probables(model_rf, zona_actual, hora, dia_semana, top_n):
             'dayofweek': [dia_semana],
             'hour': [hora],
         }
+        # Crear un DataFrame con la información de la localización
         loc = pd.DataFrame(localizacion)
         probabilidad = model_rf.predict(loc)
         probabilidades.append((zona, probabilidad[0]))
